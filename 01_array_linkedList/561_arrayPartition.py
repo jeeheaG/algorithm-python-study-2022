@@ -1,3 +1,5 @@
+#sort()
+
 nums = [1,4,3,2]
 
 result = 0
